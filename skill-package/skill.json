@@ -1,0 +1,212 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Quran Facts gives few quick and interesting facts about the most read book in the world - The Glorious Quran.",
+          "examplePhrases": [
+            "Alexa, Open Quran Facts",
+            "Alexa, Tell me something about Quran from Quran Facts",
+            "Alexa, Open Quran Facts and give me a Quran fact"
+          ],
+          "keywords": [
+            "Quran",
+            "Muslims",
+            "Religious",
+            "Books",
+            "Sacred",
+            "Salaat",
+            "Namaaz"
+          ],
+          "name": "Quran Facts",
+          "description": "UPDATE:\n1. Added new facts and few beautiful verses from Quran for more insightful approach.\n2. Display feature included for Echo show and Echo Spot. The verses can now be read as they are spoken.\n\nQuran is the most read book in the world and has been preserved in as is condition from last 1400 years since it was revealed to Prophet Muhammad (Peace Be Upon Him). The book contains treasures for each who seeks benefit from it. Quran Fact just summarizes a interesting few facts of Quran and presents it in the  present form. Share these facts with your friends and family to enhance your faith.",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        },
+        "en-CA": {
+          "summary": "Quran Facts gives few quick and interesting facts about the most read book in the world - Quran.",
+          "examplePhrases": [
+            "Alexa, open Quran Facts",
+            "Alexa, Tell me something about Quran from Quran Facts",
+            "Alexa, Open Quran Facts and give me a Quran fact"
+          ],
+          "keywords": [
+            "Quran",
+            "Muslims",
+            "Religious",
+            "Books",
+            "Sacred",
+            "Salaat",
+            "Namaaz"
+          ],
+          "name": "Quran Facts",
+          "description": "UPDATE:\n1. Added new facts and few beautiful verses from Quran for more insightful approach.\n2. Display feature included for Echo show and Echo Spot. The verses can now be read as they are spoken.\n\nQuran is the most read book in the world and has been preserved in as is condition from last 1400 years since it was revealed to Prophet Muhammad (Peace Be Upon Him). The book contains treasures for each who seeks benefit from it. Quran Fact just summarizes a interesting few facts of Quran and presents it in the  present form. Share these facts with your friends and family to enhance your faith.",
+          "smallIconUri": "file://assets/images/en-CA_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-CA_largeIconUri.png"
+        },
+        "hi-IN": {
+          "summary": "Quran Facts देता है जानकारी दुनिया में सबसे ज़्यादह पढ़ी जाने वाली किताब के बारे में - मुक़द्दस क़ुरान.",
+          "examplePhrases": [
+            "Alexa, क़ुरान Facts open करो!",
+            "Alexa, क़ुरान Facts खोलो!",
+            "Alexa, क़ुरान Facts शुरू करो!"
+          ],
+          "keywords": [
+            "क़ुरान",
+            "मुस्लिम",
+            "धार्मिक",
+            "धर्म",
+            "किताब",
+            "सलाह",
+            "नमाज़"
+          ],
+          "name": "Quran Facts",
+          "description": "क़ुरान फैक्ट्स स्किल अब हिंदी में भी|\nक़ुरान दुनिया में सबसे ज़्यादा पढ़ी जाने वाली किताब है, और १४०० सालों से इसमें कोई भी तबदीली नहीं हुई है| नसीहत पाने वालों के लिए क़ुरान एक नायब खज़ाना है, और इसी ख़ज़ाने के कुछ दिलचस्प तथ्यों और कुछ खूबसूरत आयतों को आप सुन सकते हैं क़ुरान फैक्ट्स में| अपने अज़ीज़ दोस्त रिश्तेदारों के साथ इन चंद आयतों का सुनें और गौर करें.",
+          "smallIconUri": "file://assets/images/hi-IN_smallIconUri.png",
+          "largeIconUri": "file://assets/images/hi-IN_largeIconUri.png"
+        },
+        "en-IN": {
+          "summary": "Quran Facts gives few quick and interesting facts about the most read book in the world - Quran.",
+          "examplePhrases": [
+            "Alexa, open Quran Facts",
+            "Alexa, Tell me something about Quran from Quran Facts",
+            "Alexa, Open Quran Facts and give me a Quran fact"
+          ],
+          "keywords": [
+            "Quran",
+            "Muslims",
+            "Religious",
+            "Books",
+            "Sacred",
+            "Salaat",
+            "Namaaz"
+          ],
+          "name": "Quran Facts",
+          "description": "UPDATE:\n1. Added new facts and few beautiful verses from Quran for more insightful approach.\n2. Display feature included for Echo show and Echo Spot. The verses can now be read as they are spoken.\n\nQuran is the most read book in the world and has been preserved in as is condition from last 1400 years since it was revealed to Prophet Muhammad (Peace Be Upon Him). The book contains treasures for each who seeks benefit from it. Quran Fact just summarizes a interesting few facts of Quran and presents it in the  present form. Share these facts with your friends and family to enhance your faith.",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        },
+        "en-AU": {
+          "summary": "Quran Facts gives few quick and interesting facts about the most read book in the world - Quran.",
+          "examplePhrases": [
+            "Alexa, open Quran Facts",
+            "Alexa, Tell me something about Quran from Quran Facts",
+            "Alexa, Open Quran Facts and give me a Quran fact"
+          ],
+          "keywords": [
+            "Quran",
+            "Muslims",
+            "Religious",
+            "Books",
+            "Sacred",
+            "Salaat",
+            "Namaaz"
+          ],
+          "name": "Quran Facts",
+          "description": "UPDATE:\n1. Added new facts and few beautiful verses from Quran for more insightful approach.\n2. Display feature included for Echo show and Echo Spot. The verses can now be read as they are spoken.\n\nQuran is the most read book in the world and has been preserved in as is condition from last 1400 years since it was revealed to Prophet Muhammad (Peace Be Upon Him). The book contains treasures for each who seeks benefit from it. Quran Fact just summarizes a interesting few facts of Quran and presents it in the  present form. Share these facts with your friends and family to enhance your faith.",
+          "smallIconUri": "file://assets/images/en-AU_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-AU_largeIconUri.png"
+        },
+        "en-GB": {
+          "summary": "Quran Facts gives few quick and interesting facts about the most read book in the world - Quran.",
+          "examplePhrases": [
+            "Alexa, open Quran Facts",
+            "Alexa, Tell me something about Quran from Quran Facts",
+            "Alexa, Open Quran Facts and give me a Quran fact"
+          ],
+          "keywords": [
+            "Quran",
+            "Muslims",
+            "Religious",
+            "Books",
+            "Sacred",
+            "Salaat",
+            "Namaaz"
+          ],
+          "name": "Quran Facts",
+          "description": "UPDATE:\n1. Added new facts and few beautiful verses from Quran for more insightful approach.\n2. Display feature included for Echo show and Echo Spot. The verses can now be read as they are spoken.\n\nQuran is the most read book in the world and has been preserved in as is condition from last 1400 years since it was revealed to Prophet Muhammad (Peace Be Upon Him). The book contains treasures for each who seeks benefit from it. Quran Fact just summarizes a interesting few facts of Quran and presents it in the  present form. Share these facts with your friends and family to enhance your faith.",
+          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "This was built using the Fact Sample. \n\nUPDATE:\nHindi Skill detailed description updated in devnagri.\nThe skill has been updated for hindi language. \nChanges done after last certification failure. \n1. Changed the invocation name to 'क़ुरान Facts' as suugested.\n2. Skill is functioning well in my simulator. \n \nUser  >  क़ुरान Facts open करो \nA lexa >  <Short audio>\nAlexa >  ये वह किताब है। जिस में कुछ भी शक नहीं, परहेज़गारों की रहनुमा है. क्या आप और सुनना चाहेंगे?\nUser  >  stop\nAlexa >  अल्लाह हाफ़िज़\n---------- Skill Session Ended ----------\nUser  >  क़ुरान Facts खोलो\nAlexa >  हुज़ूर अकरम मुहम्मद सल्लललाहु वलैही वस्सलम के ज़माने के क़ुरान लिखित नहीं थी बल्कि सहाबा उसे ज़ुबानी याद रखते थे. और जानकारी के लिए कहें अगला.\nUser  >  stop\nAlexa >  अल्लाह हाफ़िज़\n---------- Skill Session Ended ----------\n\n3. Changed the invocation name and example phrase, as suggested. It reaches endpoint for invocation via all example phrases.\n 4. Changed example phrase. \n5. All the response corresponding to hindi(India) was modified suitably.",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:686293343374:function:ask-quranfacts-default-default-1624713217794"
+        },
+        "interfaces": [
+          {
+            "type": "ALEXA_PRESENTATION_APL",
+            "supportedViewports": [
+              {
+                "mode": "HUB",
+                "shape": "ROUND",
+                "minWidth": 100,
+                "maxWidth": 599,
+                "minHeight": 100,
+                "maxHeight": 599
+              },
+              {
+                "mode": "HUB",
+                "shape": "RECTANGLE",
+                "minHeight": 600,
+                "maxHeight": 959,
+                "minWidth": 960,
+                "maxWidth": 1279
+              },
+              {
+                "mode": "HUB",
+                "shape": "RECTANGLE",
+                "minHeight": 600,
+                "maxHeight": 1279,
+                "minWidth": 1280,
+                "maxWidth": 1920
+              },
+              {
+                "mode": "TV",
+                "shape": "RECTANGLE",
+                "minHeight": 540,
+                "maxHeight": 540,
+                "minWidth": 960,
+                "maxWidth": 960
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {
+          "privacyPolicyUrl": "http://arshad-location.blogspot.in/2018/03/privacy-policy.html"
+        },
+        "en-CA": {
+          "privacyPolicyUrl": "http://arshad-location.blogspot.in/2018/03/privacy-policy.html"
+        },
+        "hi-IN": {
+          "privacyPolicyUrl": "http://arshad-location.blogspot.in/2018/03/privacy-policy.html"
+        },
+        "en-IN": {
+          "privacyPolicyUrl": "http://arshad-location.blogspot.in/2018/03/privacy-policy.html"
+        },
+        "en-AU": {
+          "privacyPolicyUrl": "http://arshad-location.blogspot.in/2018/03/privacy-policy.html"
+        },
+        "en-GB": {
+          "privacyPolicyUrl": "http://arshad-location.blogspot.in/2018/03/privacy-policy.html"
+        }
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

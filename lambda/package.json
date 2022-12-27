@@ -1,0 +1,25 @@
+{
+  "name": "quranfacts_v2",
+  "version": "1.1.0",
+  "description": "Alexa skill for giving random  Quran facts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Quran",
+    "muslim",
+    "verses",
+    "ayat"
+  ],
+  "author": "Mohammad Arshad",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.5",
+    "ask-sdk-model": "^1.3.0",
+    "i18next": "^17.0.6"
+  },
+  "devDependencies": {
+    "ask-sdk-local-debug": "^1.1.0"
+  }
+}
